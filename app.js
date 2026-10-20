@@ -63,7 +63,7 @@ Chúc mỗi bước đi em luôn vững vàng
 Dẫu nắng hay mưa em luôn sẵn sàng
 Cứ hồn nhiên em nhé rồi bình yên sẽ tìm đến
 
-Mong rằng trên hành trình phía trước, mỗi ngày của bạn đều là một ngày hạnh phúc, và tụi mình sẽ có thêm thật nhiều kỷ niệm đáng nhớ cùng nhau nhé! 🪐✨🌷🍫`;
+Mong rằng trên hành trình phía trước, mỗi ngày của tất bạn đều là một ngày hạnh phúc,  Chúc các bạn luôn xinh đẹp, rạng rỡ và ngập tràn niềm vui! 🪐✨🌷🍫`;
 
 const TYPING_SPEED = 90;
 
